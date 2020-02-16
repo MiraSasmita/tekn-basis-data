@@ -1,6 +1,7 @@
-# Minggu 02
+# TUGAS
 
 ![Gambar 1](gambar-01.png)
+
 
 ---
 
