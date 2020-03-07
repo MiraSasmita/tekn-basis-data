@@ -145,10 +145,6 @@ pada gambar dibawah user akan melakukan hal sama pada shell python dengan membua
 
 ![Gambar 28](gambar-28.png)
 
-----
-
-
-![Gambar 29](gambar-29.png)
 
 ---
 
