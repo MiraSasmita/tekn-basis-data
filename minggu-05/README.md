@@ -110,7 +110,7 @@ dengan Expire tandai key second_num kadaluwarsa setelah 10 detik
 
 ---
 
-setara dengan menggunakan python
+setara dengan menggunakan pythons
 ![Gambar 25](gambar-25.png)
 
 ---
