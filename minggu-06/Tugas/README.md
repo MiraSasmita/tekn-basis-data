@@ -1,4 +1,4 @@
-#Tugas Minggu 05
+#Tugas Minggu 06
 
 * menjalankan perintah cqsl pada apache-casssandra
 
