@@ -1,4 +1,4 @@
-# Minggu 02
+# NoSQL - Document Store 1: Memulai MonggoDB
 
 ![Gambar 1](gambar-01.png)
 
